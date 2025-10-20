@@ -1,0 +1,6 @@
+[submodule "RNG Game/counter"]
+	path = RNG Game/counter
+	url = https://github.com/EllyAster/counter
+[submodule "RNG Game/Guessing-Game"]
+	path = RNG Game/Guessing-Game
+	url = https://github.com/EllyAster/Guessing-Game
