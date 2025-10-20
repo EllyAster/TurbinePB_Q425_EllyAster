@@ -4,3 +4,6 @@
 [submodule "RNG Game/Guessing-Game"]
 	path = RNG Game/Guessing-Game
 	url = https://github.com/EllyAster/Guessing-Game
+[submodule "RNG Game/hello_cargo"]
+	path = RNG Game/hello_cargo
+	url = https://github.com/EllyAster/hello_cargo
