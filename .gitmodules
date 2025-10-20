@@ -7,3 +7,6 @@
 [submodule "RNG Game/hello_cargo"]
 	path = RNG Game/hello_cargo
 	url = https://github.com/EllyAster/hello_cargo
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/EllyAster/rustlings
