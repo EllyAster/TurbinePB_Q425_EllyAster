@@ -10,3 +10,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = https://github.com/EllyAster/rustlings
+[submodule "hello-anchor"]
+	path = hello-anchor
+	url = https://github.com/EllyAster/hello-anchor
