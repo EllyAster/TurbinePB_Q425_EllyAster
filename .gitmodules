@@ -13,3 +13,6 @@
 [submodule "hello-anchor"]
 	path = hello-anchor
 	url = https://github.com/EllyAster/hello-anchor
+[submodule "rust-counter"]
+	path = rust-counter
+	url = https://github.com/EllyAster/rust-counter
